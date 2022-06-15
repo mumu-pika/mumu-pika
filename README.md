@@ -1,9 +1,9 @@
 ### 👀 Hi！Nice to Meet You!
 - 👋 Hi, I’m @mumu-pika
-- 👀 I’m interested in coding and explore new technologies.
+- 👀 I’m interested in coding and exploring new technologies.
 - 🔭 I’m currently working on front-end development
 - 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on creating a beautiful world.
+- 💞️ I’m looking forward to collaborate on creating a beautiful world.
 - 📫 Welcome to reach me!
 
 
