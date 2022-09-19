@@ -1,20 +1,33 @@
-### 👀 Hi！Nice to Meet You!
+<div align="center">
+  <img align="left" src="https://raw.githubusercontent.com/mumu-pika/mumu-pika/main/pikachu.gif" width="360" />
+</div>
+<h1 align="center">🥳 Hi，mumu here!</h1>
 
-<img align="right" src="https://raw.githubusercontent.com/mumu-pika/mumu-pika/main/pikachu.gif" width="360">
+<div align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=3000&color=EF3FC1&background=FFBF2E00&center=true&vCenter=true&width=435&lines=Never+give+up+the+faith!;Dreams+makes+us+be+great!;Time+knows%2C+time+aloes!" alt="Typing SVG" />
+</div>
 
-- 👋 Hi, I’m @mumu-pika
-- 👀 I’m interested in coding and exploring new technologies.
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking forward to collaborate on creating a beautiful world.
-- 📫 Welcome to reach me!
+<table align="center">
+    <tr>
+        <td align="center">
+          <div><b><em><spam>Statistics</spam></em></b></div>
+          <img src="https://github-readme-stats.vercel.app/api?username=mumu-pika&theme=jolly&show_icons=true" /> 
+        </td>
+        <td align="left">
+            <div align="center"><b><em><spam>Recent</spam></em></b></div>
+            <ul>
+                <li>👻 Hi, I’m mumu. Welcome to reach me!</li>
+                <li>📫 I’m interested in coding and exploring new technologies.</li>
+                <li>🔭 I’m currently working on front-end development.</li>
+                <li>🌱 I’m currently learning nextJS、uniapp...</li>
+                <li>💞️ I’m looking forward to have a beautiful world. </li>
+                <li>⛺️ I have a private site: <a href="https://www.pikamumu.top">mumu'blog</a>, you're welcome to come!~ </li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
-
-![mumu-pika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumu-pika&theme=jolly&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumu-pika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Languages and Tools:
+<h3 align="left">Languages & Tools</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -35,8 +48,8 @@ mumu-pika/mumu-pika is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<h3 align="left">Soical</h3>
 
-### GET IN TOUCH
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/mumu-pika)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/mu-mu-37-80-4)
 
