@@ -11,7 +11,9 @@
     <tr>
         <td align="center">
           <div><b><em><spam>Statistics</spam></em></b></div>
-          <img src="https://github-readme-stats.vercel.app/api?username=mumu-pika&theme=jolly&show_icons=true" /> 
+          <!--  url有过一次修改, 详见：https://github.com/anuraghazra/github-readme-stats/issues/2388 -->
+          <!--  <img src="https://github-readme-stats.vercel.app/api?username=mumu-pika&theme=jolly&show_icons=true" />  -->
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mumu-pika&&show_icons=true&theme=jolly" />
         </td>
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
